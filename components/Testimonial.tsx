@@ -3,6 +3,14 @@ import React from 'react'
 const Testimonial = () => {
   return (
     <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+      <div className="max-w-2xl text-start mb-10 lg:mb-14">
+          <h2 className="text-2xl font-bold md:text-4xl md:leading-tight">
+            Primafli Reviews
+          </h2>
+          <p className="mt-1 text-gray-600">
+            Kisah Sukses Transformasi Digital Bersama PrimaFli
+          </p>
+        </div>
         {/* Grid */}
         <div className="lg:grid lg:grid-cols-12 lg:gap-16 lg:items-center lg:justify-between">
           <div className="lg:col-span-5 lg:col-start-1">

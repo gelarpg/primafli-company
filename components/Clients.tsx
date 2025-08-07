@@ -2,7 +2,7 @@ import React from "react";
 
 const Clients = () => {
   return (
-    <div className="relative overflow-hidden pt-4 bg-white">
+    <div className="relative overflow-hidden pt-4 bg-white h-32">
       <svg
         className="absolute -bottom-20 start-1/2 w-[1900px] transform -translate-x-1/2"
         width="2745"
@@ -93,7 +93,7 @@ const Clients = () => {
         />
       </svg>
 
-      <div className="relative z-10">
+      {/* <div className="relative z-10">
         <div className="max-w-5xl px-4 xl:px-0 mx-auto">
           <div className="mb-4">
             <h2 className="text-neutral-400">
@@ -216,7 +216,7 @@ const Clients = () => {
             </svg>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
