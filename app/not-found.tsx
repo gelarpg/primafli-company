@@ -58,7 +58,7 @@ const NotFound = () => {
       <footer className="mt-auto text-center py-5">
         <div className="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-sm text-gray-500">
-            © PT. Primafli Teknologi Solusi.
+            © PT. Primafli Solusi Teknologi.
           </p>
         </div>
       </footer>

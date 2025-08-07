@@ -28,7 +28,7 @@ const Contact = () => {
             allowFullScreen={false}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            className="rounded-lg w-[30rem] h-[30rem]"
+            className="rounded-lg w-full lg:w-[30rem] lg:h-[30rem]"
           ></iframe>
           <div className="divide-y divide-gray-200">
             {/* Icon Block */}
