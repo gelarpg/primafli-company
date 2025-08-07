@@ -1,5 +1,6 @@
 import Approuch from "@/components/Approuch";
 import Clients from "@/components/Clients";
+import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
 import Services from "@/components/Services";
 import MainLayout from "@/layout/MainLayout";
@@ -40,6 +41,7 @@ export default function Home() {
       {/* <Review /> */}
       {/* <Testimonial /> */}
       <Approuch />
+      <Contact/>
     </MainLayout>
   );
 }
