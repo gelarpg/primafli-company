@@ -17,6 +17,7 @@ const NotFound = () => {
               width={100}
               height={100}
               alt="logo"
+              unoptimized={true}
             />
           </Link>
         </nav>
